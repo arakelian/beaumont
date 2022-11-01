@@ -118,6 +118,36 @@
 					]
 				},
 				{
+				        "fontFamily": "rollerscript-smooth, sans-serif",
+					"slug": "rollerscript-smooth",
+					"name": "Rollerscript Smooth"
+				},
+				{
+				        "fontFamily": "rollerscript-rough, sans-serif",
+					"slug": "rollerscript-rough",
+					"name": "Rollerscript Rough"
+				},
+				{
+				        "fontFamily": "operetta-12, serif",
+					"slug": "operetta-12",
+					"name": "Operetta 12"
+				},
+				{
+				        "fontFamily": "operetta-18, serif",
+					"slug": "operetta-18",
+					"name": "Operetta 18"
+				},
+				{
+				        "fontFamily": "operetta-32, serif",
+					"slug": "operetta-32",
+					"name": "Operetta 32"
+				},
+				{
+				        "fontFamily": "operetta-52, serif",
+					"slug": "operetta-52",
+					"name": "Operetta 52"
+				},
+				{
 					"fontFamily": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
 					"slug": "system-sans-serif",
 					"name": "System Sans Serif"
