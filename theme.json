@@ -76,46 +76,14 @@
 			"customFontSize": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "\"Albert Sans\", ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
+				        "fontFamily": "operetta-12, serif",
 					"slug": "default-sans",
-					"name": "Albert Sans",
-					"fontFace": [
-						{
-							"fontFamily": "Albert Sans",
-							"fontWeight": "100 900",
-							"fontStyle": "normal",
-							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/albert-sans/AlbertSans-VariableFont_wght.woff2" ]
-						},
-						{
-							"fontFamily": "Albert Sans",
-							"fontWeight": "100 900",
-							"fontStyle": "italic",
-							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/albert-sans/AlbertSans-Italic-VariableFont_wght.woff2" ]
-						}
-					]
+					"name": "Default Sans Serif"
 				},
 				{
-					"fontFamily": "\"STIX Two Text\", ui-serif, Georgia, serif",
+				        "fontFamily": "rollerscript-smooth, sans-serif",
 					"slug": "default-serif",
-					"name": "STIX Two Text",
-					"fontFace": [
-						{
-							"fontFamily": "STIX Two Text",
-							"fontWeight": "100 900",
-							"fontStyle": "normal",
-							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/stix-two-text/STIXTwoText-VariableFont_wght.woff2" ]
-						},
-						{
-							"fontFamily": "STIX Two Text",
-							"fontWeight": "100 900",
-							"fontStyle": "italic",
-							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/stix-two-text/STIXTwoText-Italic-VariableFont_wght.woff2" ]
-						}
-					]
+					"name": "Default Serif"
 				},
 				{
 				        "fontFamily": "rollerscript-smooth, sans-serif",
