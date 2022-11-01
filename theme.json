@@ -76,12 +76,12 @@
 			"customFontSize": true,
 			"fontFamilies": [
 				{
-				        "fontFamily": "operetta-12, serif",
+				        "fontFamily": "rollerscript-smooth, sans-serif",
 					"slug": "default-sans",
 					"name": "Default Sans Serif"
 				},
 				{
-				        "fontFamily": "rollerscript-smooth, sans-serif",
+				        "fontFamily": "operetta-12, serif",
 					"slug": "default-serif",
 					"name": "Default Serif"
 				},
